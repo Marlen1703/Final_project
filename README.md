@@ -19,5 +19,5 @@ An elegant notes taking app written in Flutter that uses sqflite for storage.
 3) Design and representation (figma design first is welcome):white_check_mark:
 4) Wise use of libraries and frameworks(Flutter):white_check_mark: 
 5) Clean code :white_check_mark:
-* apk in releases : white_check_mark:
-* screenshots, name and short description: white_check_mark :<br />
+* apk in releases :white_check_mark:
+* screenshots, name and short description:white_check_mark 
