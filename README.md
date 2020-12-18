@@ -13,8 +13,10 @@ An elegant notes taking app written in Flutter that uses sqflite for storage.
 
  Project requirements:
 * Link to a repository 
-1) your code :white_check_mark:
-2) apk in releases :white_check_mark:
-3) name and short description :white_check_mark:
-4) screenshots in readme.md :white_check_mark:
-*Use of data storage(SharedPreferences, sqlite, room):white_check_mark:
+1)your code :white_check_mark:
+2)Use of data storage (DB, Cloud or SharedPreferences) :white_check_mark:
+3)Design and representation (figma design first is welcome):white_check_mark:
+4)Wise use of libraries and frameworks(Flutter):white_check_mark:
+5)Clean code :white_check_mark:
+*apk in releases : white_check_mark :
+*screenshots, name and short description: white_check_mark :
