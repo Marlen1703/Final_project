@@ -1,4 +1,4 @@
-# Draft - Notes app
+# My - Notes app
 
 An elegant notes taking app written in Flutter that uses sqflite for storage.
 
@@ -22,3 +22,12 @@ An elegant notes taking app written in Flutter that uses sqflite for storage.
 5) Clean code :white_check_mark:
 * apk in releases :white_check_mark:
 * screenshots, name and short description :white_check_mark:
+
+# Screenshots:
+![first](https://user-images.githubusercontent.com/49818721/102684389-22163c00-41e9-11eb-877e-2ef4743a2d9b.PNG)
+
+![second](https://user-images.githubusercontent.com/49818721/102684390-23dfff80-41e9-11eb-9d35-5e0c46c77fa5.PNG)
+
+![dark_first](https://user-images.githubusercontent.com/49818721/102684391-24789600-41e9-11eb-86d7-654587d8b9ac.PNG)
+
+![last](https://user-images.githubusercontent.com/49818721/102684392-25a9c300-41e9-11eb-9131-3b5fa7a91b01.PNG)
