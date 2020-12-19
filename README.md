@@ -28,6 +28,6 @@ An elegant notes taking app written in Flutter that uses sqflite for storage.
 
 ![second](https://user-images.githubusercontent.com/49818721/102684390-23dfff80-41e9-11eb-9d35-5e0c46c77fa5.PNG)
 
-![dark_first](https://user-images.githubusercontent.com/49818721/102684391-24789600-41e9-11eb-86d7-654587d8b9ac.PNG)
-
 ![last](https://user-images.githubusercontent.com/49818721/102684392-25a9c300-41e9-11eb-9131-3b5fa7a91b01.PNG)
+
+![dark_first](https://user-images.githubusercontent.com/49818721/102684391-24789600-41e9-11eb-86d7-654587d8b9ac.PNG)
